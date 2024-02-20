@@ -10,7 +10,7 @@ pkg install python2
 pip install requests
 pip install rich
 pip install bs4
-git clone
+git clone https://github.com/THE-MAX-OFC/RESM.git
 cd RESM
 python run.py
 ```
