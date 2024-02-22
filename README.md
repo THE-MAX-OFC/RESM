@@ -9,6 +9,7 @@ pkg install python
 pkg install python2
 pip install requests
 pip install rich
+pip install pytz
 pip install bs4
 git clone https://github.com/THE-MAX-OFC/RESM.git
 cd RESM
